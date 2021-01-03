@@ -68,6 +68,7 @@ extra:
   recipe-maintainers:
     - conda-forge/r
     - coatless
+    - steveculpepper
 
 # Package: cIRT
 # Type: Package
